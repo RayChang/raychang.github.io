@@ -96,7 +96,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: 'git'
-    repo: https://github.com/RayChang/abriya.github.io.git
+    repo: git@RayChang-GitHub:RayChang/raychang.github.io.git
     branch: gh-pages
     name: RayChang
     email: mofies@gmail.com
