@@ -97,6 +97,6 @@ theme: landscape
 deploy:
     type: 'git'
     repo: git@RayChang-GitHub:RayChang/raychang.github.io.git
-    branch: gh-pages
+    branch: master
     name: RayChang
     email: mofies@gmail.com
