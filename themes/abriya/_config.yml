@@ -1,0 +1,8 @@
+# Renderer
+node_sass:
+    outputStyle: nested
+    precision: 5
+    sourceComments: false
+    sourceMap: true
+    sourceMapContents: true
+    sourceMapEmbed: true
