@@ -1,3 +1,14 @@
+# Menu
+navs:
+    - name: home
+      link: /
+    - name: archives
+      link: /archives
+    - name: categories
+      link: /categories
+    - name: tags
+      link: /tags
+
 # Renderer
 node_sass:
     outputStyle: nested
@@ -6,3 +17,5 @@ node_sass:
     sourceMap: true
     sourceMapContents: true
     sourceMapEmbed: true
+    includePaths:
+        - node_modules

@@ -1,0 +1,5 @@
+<nav>
+    <% getMenu().forEach(nav => { %>
+    <a href="<%- nav.link %>"><%= nav.name %></a>
+    <% }); %>
+</nav>

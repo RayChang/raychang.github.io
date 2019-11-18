@@ -1,5 +1,8 @@
+@import 'normalize-scss/sass/_normalize';
+@import '_variables';
+
+@include normalize();
+
 body {
-    margin: 0;
-    padding: 0;
-    color: #333;
+    color: $color-mako;
 }
